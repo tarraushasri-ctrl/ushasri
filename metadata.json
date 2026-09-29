@@ -1,0 +1,6 @@
+{
+  "name": "Career Connect",
+  "description": "Career discovery, internship matching, skill roadmaps, and mentorship platform for college students.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
